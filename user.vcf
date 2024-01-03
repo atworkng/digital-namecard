@@ -11,4 +11,6 @@ item1.ADR;type=WORK;type=pref:;;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:www.facebook.com/therabbitssecret
 item2.X-ABLabel:_$!<HomePage>!$_
+X-INSTAGRAM:therabbitssecret
+X-INSTAGRAM:therabbitssecretstories
 END:VCARD
