@@ -7,11 +7,12 @@ ORG:The Rabbit's Secret Pte Ltd;
 TITLE:CEO and Chief Storyteller 
 EMAIL;type=INTERNET;type=WORK;type=pref:therabbitssecret@gmail.com
 TEL;type=WORK;type=VOICE:+65 96329815
+X-SOCIALPROFILE;type=FaceBook:www.facebook.com/therabbitssecret
 X-SOCIALPROFILE;type=Instagram:http://instagram.com/therabbitssecret
 X-SOCIALPROFILE;type=Instagram:http://instagram.com/therabbitssecretstories
 PHOTO;VALUE=https://github.com/atworkng/digital-namecard/blob/master/IMG_1271.jpg
 item1.ADR;type=WORK;type=pref:;;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:www.facebook.com/therabbitssecret
+item2.URL;type=pref:therabbitssecret.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
